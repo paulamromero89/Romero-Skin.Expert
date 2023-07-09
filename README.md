@@ -5,6 +5,7 @@ Tienda online de artículos para el cuidado de la piel
 
 
 **About**
+
 Somos un grupo de medicos dermatologos,  y cosmetologos  apasionados por el cuidado de la piel. Nuestra misión es brindar a nuestros clientes productos de calidad y conocimientos especializados para ayudarles a lograr una piel sana y radiante.
 En nuestro e-commerce, encontrarás una variedad de productos para todas las etapas de tu rutina de cuidado de la piel. Ya sea que estés buscando un limpiador suave, un suero potente, una crema hidratante nutritiva o una mascarilla rejuvenecedora, tenemos lo que necesitas. 
 Sabemos que cada persona es única y tiene necesidades específicas. Es por eso que también ofrecemos recursos educativos y asesoramiento personalizado para ayudarte a comprender mejor tu tipo de piel, identificar tus preocupaciones específicas y elegir los productos adecuados para ti. 
