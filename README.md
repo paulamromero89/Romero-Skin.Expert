@@ -5,7 +5,14 @@ Tienda online de artículos para el cuidado de la piel
 
 
 **About**
-Skin.Expert es una web que ofrece:
+Somos un grupo de medicos dermatologos,  y cosmetologos  apasionados por el cuidado de la piel. Nuestra misión es brindar a nuestros clientes productos de calidad y conocimientos especializados para ayudarles a lograr una piel sana y radiante.
+En nuestro e-commerce, encontrarás una variedad de productos para todas las etapas de tu rutina de cuidado de la piel. Ya sea que estés buscando un limpiador suave, un suero potente, una crema hidratante nutritiva o una mascarilla rejuvenecedora, tenemos lo que necesitas. 
+Sabemos que cada persona es única y tiene necesidades específicas. Es por eso que también ofrecemos recursos educativos y asesoramiento personalizado para ayudarte a comprender mejor tu tipo de piel, identificar tus preocupaciones específicas y elegir los productos adecuados para ti. 
+En Skin Experts, nos esforzamos por proporcionar una experiencia de compra en línea excepcional. Valoramos a nuestros clientes y nos comprometemos a brindar un excelente servicio. Desde la navegación intuitiva en nuestro sitio web hasta el envío rápido y confiable, nos aseguramos de que tu experiencia de compra sea conveniente, segura y satisfactoria.
+Únete a nuestra comunidad de amantes del cuidado de la piel y comienza tu viaje hacia una piel saludable y radiante. 
+
+
+**Productos que ofrecemos**
 
 - Productos para el cuidado de la piel: Serums, cremas, protectores solares
 - Maquillaje
