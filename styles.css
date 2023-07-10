@@ -1,0 +1,17 @@
+@import url("https://fonts.google.com/specimen/Nunito+Sans?query=nunito");
+*{
+    font-family: 'nunito';
+}
+
+:root{
+--primary:#936D92;
+--secondary: #69779B
+}
+
+.banner{
+background-color: var(--primary)
+}
+
+.articulo{
+    background-color: var(--secondary);
+}
